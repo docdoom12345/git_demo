@@ -1,0 +1,2 @@
+This is our content in git.
+Added second line
